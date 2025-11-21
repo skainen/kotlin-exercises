@@ -1,0 +1,4 @@
+employee1 - A: 3000€
+employee2 - B: 2300€
+employee3 - C: 2400€
+employee4 - D: 1120€
